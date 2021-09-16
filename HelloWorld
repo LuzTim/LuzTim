@@ -1,0 +1,9 @@
+public class HelloWorld{
+
+  public static void main(Stirng[] args){
+  
+    system.out.println("I was born, Hello World!");
+  
+  }
+
+}
